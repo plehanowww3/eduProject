@@ -1,7 +1,8 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
+/// <summary>
+/// Точка возрождения
+/// </summary>
 public class CheckPoint : MonoBehaviour
 {
     public GameObject m_point;
